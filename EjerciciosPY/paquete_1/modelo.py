@@ -6,8 +6,7 @@ class Futbolista(object):
 				self.establecerEquipo(equipo)
 				self.establecerPosicion(posicion)
 				self.establecerDorsal(dorsal)
-
- 		                      		                		
+	                		
     #métodos establecer y obtener para cada una de las variables
 	def establecerNombre(self, n):
 		self.nombre = n
